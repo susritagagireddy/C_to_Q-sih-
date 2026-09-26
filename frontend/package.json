@@ -1,0 +1,17 @@
+{
+  "name": "resqbit-cto-q",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-scripts": "5.0.1",
+    "recharts": "^3.10.1",
+    "react-syntax-highlighter": "^16.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  }
+}
